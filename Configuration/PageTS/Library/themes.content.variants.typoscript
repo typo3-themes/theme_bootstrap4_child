@@ -1,0 +1,32 @@
+# Variants for content elements
+themes.content.variants {
+	default {
+		custom-variants = custom-variants-label
+	}
+	# ctype: header
+	header {
+	}
+	# ctype: textmedia
+	textmedia {
+	}
+	# ctype: uploads
+	uploads {
+	}
+	# ctype: gridelements_pi1
+	gridelements_pi1 {
+		container {
+		}
+		2ColumnGrid {
+		}
+		3ColumnGrid {
+		}
+		4ColumnGrid {
+		}
+		accordion {
+		}
+		carousel {
+		}
+		tabs {
+		}
+	}
+}

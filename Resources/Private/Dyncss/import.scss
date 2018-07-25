@@ -1,0 +1,53 @@
+// Be sure that all Bootstrap variables are defined!
+@import "../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/functions";
+@import "../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/_variables";
+@import "../../../../theme_bootstrap4/Resources/Private/Dyncss/Library/Variables/font-family-sans-serif";
+@import "../../../../theme_bootstrap4/Resources/Private/Dyncss/Library/Variables/font-family-monospace";
+@import "../../../../theme_bootstrap4/Resources/Private/Dyncss/Library/Variables/theme";
+//@import "Library/Variables/your-variable-file";
+
+// Mixins
+@import "../../../../theme_bootstrap4/Resources/Private/Dyncss/Library/Mixins/font-include";
+@import "../../../../theme_bootstrap4/Resources/Private/Dyncss/Library/Mixins/breakpoints";
+
+// Scss-Imports
+@import "Library/bootstrap";
+@import "Library/layout";
+@import "../../../../theme_bootstrap4/Resources/Private/Dyncss/Library/partial.socialmedia";
+@import "../../../../theme_bootstrap4/Resources/Private/Dyncss/Library/img-fluid-svg";
+@import "../../../../theme_bootstrap4/Resources/Private/Dyncss/Library/typography";
+//@import "Library/typography";
+
+// Styles for Areas
+//@import "Library/Areas/top";
+//@import "Library/Areas/header";
+//@import "Library/Areas/feature";
+@import "../../../../theme_bootstrap4/Resources/Private/Dyncss/Library/Areas/main";
+//@import "Library/Areas/main";
+//@import "Library/Areas/extended";
+//@import "Library/Areas/extended";
+//@import "Library/Areas/footer";
+
+// Styles for Elements
+@import "../../../../theme_bootstrap4/Resources/Private/Dyncss/Library/Elements/button";
+@import "../../../../theme_bootstrap4/Resources/Private/Dyncss/Library/Elements/carousel";
+@import "../../../../theme_bootstrap4/Resources/Private/Dyncss/Library/Elements/menu";
+@import "../../../../theme_bootstrap4/Resources/Private/Dyncss/Library/Elements/uploads";
+//@import "Library/Elements/your-element-file";
+
+// Styles for Menus
+@import "../../../../theme_bootstrap4/Resources/Private/Dyncss/Library/Menus/top";
+@import "../../../../theme_bootstrap4/Resources/Private/Dyncss/Library/Menus/breadcrumb";
+@import "../../../../theme_bootstrap4/Resources/Private/Dyncss/Library/Menus/footer";
+//@import "Library/Menus/your-menu-file";
+
+// Styles for Behaviour
+@import "../../../../theme_bootstrap4/Resources/Private/Dyncss/Library/Behaviour/equal-height";
+//@import "Library/Behaviour/your-behaviour-file";
+
+// Styles for Variants
+@import "Library/Variants/your-variant";
+
+// Styles for Extensions
+//@import "../Extensions/Extension-Key/Dyncss/import";
+

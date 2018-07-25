@@ -1,0 +1,6 @@
+# Include javascript files
+page {
+	includeJSFooter {
+		initialize = EXT:theme_bootstrap4_child/Resources/Public/JavaScript/initialize.js
+	}
+}

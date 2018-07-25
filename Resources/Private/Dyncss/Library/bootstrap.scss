@@ -1,0 +1,35 @@
+// Core imports from bootstrap
+
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/mixins";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/print";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/reboot";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/type";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/images";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/code";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/grid";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/tables";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/forms";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/buttons";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/transitions";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/dropdown";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/button-group";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/input-group";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/custom-forms";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/nav";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/navbar";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/card";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/breadcrumb";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/pagination";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/badge";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/jumbotron";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/alert";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/progress";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/media";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/list-group";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/close";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/modal";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/tooltip";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/popover";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/carousel";
+@import "../../../../../theme_bootstrap4/Resources/Public/Contrib/Bootstrap/scss/utilities";
+@include bg-variant('.bg-secondary', $brand-secondary);

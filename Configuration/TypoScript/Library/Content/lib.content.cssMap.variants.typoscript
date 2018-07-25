@@ -1,0 +1,3 @@
+lib.content.cssMap.variants {
+	custom-variants = custom-variants-class
+}

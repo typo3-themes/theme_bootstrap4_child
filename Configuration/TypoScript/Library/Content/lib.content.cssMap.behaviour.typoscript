@@ -1,0 +1,3 @@
+lib.content.cssMap.behaviour {
+	custom-behaviour = custom-behaviour-class
+}
