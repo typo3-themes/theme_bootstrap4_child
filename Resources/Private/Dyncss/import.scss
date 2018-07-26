@@ -43,10 +43,12 @@
 
 // Styles for Behaviour
 @import "../../../../theme_bootstrap4/Resources/Private/Dyncss/Library/Behaviour/equal-height";
+@import "Library/Behaviours/custom-behaviour-class";
 //@import "Library/Behaviour/your-behaviour-file";
 
 // Styles for Variants
-@import "Library/Variants/your-variant";
+@import "Library/Variants/custom-variants-class";
+//@import "Library/Variants/your-variant-file";
 
 // Styles for Extensions
 //@import "../Extensions/Extension-Key/Dyncss/import";
