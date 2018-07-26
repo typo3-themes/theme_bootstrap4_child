@@ -1,0 +1,11 @@
+plugin.tx_news {
+	_LOCAL_LANG {
+		default {
+			back-link = Back to overview
+		}
+		de {
+			back-link = Zurück zur Übersicht
+		}
+	}
+}
+

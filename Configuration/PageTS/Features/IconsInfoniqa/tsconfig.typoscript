@@ -1,0 +1,3 @@
+TCEFORM.tt_content.tx_themes_icon.addItems {
+	child-icon-key = Child Icon Label
+}
