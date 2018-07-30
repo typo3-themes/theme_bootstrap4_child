@@ -35,7 +35,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'constraints' => array(
 		'depends' => array(
 			'themes' => '8.7.0-8.7.99',
-			'theme_bootstrap4' => '0.7.0',
+			'theme_bootstrap4' => '0.8.0',
 		),
 		'conflicts' => array(
 		),

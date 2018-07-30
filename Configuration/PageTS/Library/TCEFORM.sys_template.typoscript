@@ -2,7 +2,7 @@ TCEFORM {
 	sys_template {
 		# Define some features
 		tx_themes_features.addItems {
-			ThemeBootstrap4Infoniqa_IconsChild = Icons: Child Theme
+			ThemeBootstrap4Child_IconsChild = Icons: Child Theme
 		}
 		# Define some supported extensions
 		tx_themes_extensions.addItems {

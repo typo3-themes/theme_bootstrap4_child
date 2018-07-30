@@ -40,7 +40,7 @@ theme_bootstrap4_child is a very basic theme. It can be used to start your own t
 	
 5. Theme configuration
 	- Switch to the themes module and be sure you selected your new root page.
-	- Chose from the menu "Search" the entry "Site Rerlated Settings" and change options as you wish.
+	- Chose from the menu "Search" the entry "Site Related Settings" and change options as you wish.
 	- Don't forget to save your changes. 
 
 6. Your are ready to use the theme
