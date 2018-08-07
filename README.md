@@ -11,18 +11,18 @@ theme_bootstrap4_child is a very basic theme. It can be used to start your own t
 1. Install the following Extension in your TYPO3 8.7.x installation.
 	- static_info_tables
 	- gridelements
-	- themes
+	- themes (Branch 8-0: https://github.com/typo3-themes/themes/tree/8-0)
 	- dyncss
 	- dyncss_scss
-	- theme_bootstrap4
-	- theme_bootstrap4_child
+	- theme_bootstrap4 (Branch rebase: https://github.com/typo3-themes/theme_bootstrap4/tree/rebase)
+	- theme_bootstrap4_child (Master: https://github.com/typo3-themes/theme_bootstrap4_child)
 	
 	The extensions depend on each other. If you choose a different order, the dependencies will be displayed and you can resolve them.
 
 2. Template 
 	- Create new template for a new site and edit them.
 	- You don't need anything in the fields Constants and Setup. Everything will be served with the theme. (Of course you can still use the fields and override the theme configuration.)
-	- Add the following Static Includes (required order)
+	- Add the following Static Includes (required order; do not use fluid_styled_content static template!)
 		1. Themes
 		2. Gridelements
 		3. ... further extensions
