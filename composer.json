@@ -1,0 +1,29 @@
+{
+  "name": "typo3-themes/theme-bootstrap4-child",
+  "type": "typo3-cms-extension",
+  "description": "TYPO3 THEMES Child-theme using Bootstrap 4",
+  "version": "1.0.0",
+  "homepage": "http://typo3-themes.org",
+  "license": [
+    "GPL-2.0+"
+  ],
+  "keywords": [
+    "TYPO3 CMS",
+    "TYPO3 THEMES",
+    "THEMES",
+    "BOOTSTRAP",
+    "FLUID",
+    "CUSTOMIZE"
+  ],
+  "support": {
+    "issues": "https://github.com/typo3-themes/theme_bootstrap4_child/issues"
+  },
+  "replace": {
+    "theme_bootstrap4_child": "self.version",
+    "typo3-ter/theme_bootstrap4_child": "self.version"
+  },
+  "require": {
+    "typo3-themes/themes": ">=8.7.6,<8.8",
+    "typo3-themes/theme-bootstrap4": ">=0.9.0,<2.0"
+  }
+}

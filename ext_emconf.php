@@ -15,7 +15,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'description'      => 'Theme for your Website',
 	'category'         => 'templates',
 	'shy'              => 0,
-	'version'          => '0.0.1',
+	'version'          => '1.0.0',
 	'dependencies'     => '',
 	'conflicts'        => '',
 	'priority'         => 'bottom',
@@ -35,7 +35,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'constraints' => array(
 		'depends' => array(
 			'themes' => '8.7.0-8.7.99',
-			'theme_bootstrap4' => '0.8.0',
+			'theme_bootstrap4' => '0.9.0-1.99.99',
 		),
 		'conflicts' => array(
 		),
