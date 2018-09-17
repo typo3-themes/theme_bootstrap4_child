@@ -4,8 +4,9 @@ themes {
 		siteName = Theme Child based on theme_bootstrap4
 		baseurl = /
 		baseurlIcon = /typo3conf/ext/theme_bootstrap4_child/Resources/Public/Icons/
-		baseurlImage = *typo3conf/ext/theme_bootstrap4_child/Resources/Public/Images/
-		favicon = typo3conf/ext/theme_bootstrap4_child/Resources/Public/Icons/favicon.ico
+		baseurlImage = /typo3conf/ext/theme_bootstrap4_child/Resources/Public/Images/
+		baseurlFont = /typo3conf/ext/theme_bootstrap4_child/Resources/Public/Fonts/
+		favicon = /typo3conf/ext/theme_bootstrap4_child/Resources/Public/Icons/favicon.ico
 		siteSlogan = Inspire people to share
 	}
 }
