@@ -11,10 +11,10 @@ theme_bootstrap4_child is a very basic theme. It can be used to start your own t
 1. Install the following Extension in your TYPO3 8.7.x installation.
 	- static_info_tables
 	- gridelements
-	- themes (Branch 8-0: https://github.com/typo3-themes/themes/tree/8-0)
+	- themes (8.7.6+)
 	- dyncss
 	- dyncss_scss
-	- theme_bootstrap4 (Branch rebase: https://github.com/typo3-themes/theme_bootstrap4/tree/rebase)
+	- theme_bootstrap4 (Master: https://github.com/typo3-themes/theme_bootstrap4)
 	- theme_bootstrap4_child (Master: https://github.com/typo3-themes/theme_bootstrap4_child)
 	
 	The extensions depend on each other. If you choose a different order, the dependencies will be displayed and you can resolve them.
